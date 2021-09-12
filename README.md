@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-For this project, I created an employee directory with React. Users can view names, photos, and contact information for everyone in the company. The user can search for people by name or sort the directory alphabetically by last name.
+For this project, I created an employee directory with React. Users can view names, photos, and contact information of everyone in the company. The user can search for people by name or sort the directory alphabetically by last name.
 
 The application was deployed using Github Pages.
 - [Live Application](https://evperkinsjr.github.io/react-employee-directory/)
