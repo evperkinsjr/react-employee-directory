@@ -5,7 +5,7 @@ const EmployeeTable = (props) => {
     <table className="table table-striped table-sortable text-center">
       <thead>
         <tr>
-          <th scope="col">Image</th>
+          <th scope="col">Photo</th>
           <th scope="col" data-field="name" data-sortable="true">
             <span onClick={() => props.sortBy("name", "last", "first")}>
               Name</span>
