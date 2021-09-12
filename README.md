@@ -8,6 +8,8 @@ The application was deployed using Github Pages.
 - [Live Application](https://evperkinsjr.github.io/react-employee-directory/)
 - [Project Repository](https://github.com/evperkinsjr/react-employee-directory)
 
+![react-employee-directory-screenshot](https://user-images.githubusercontent.com/79537431/132995991-718a000e-2d12-44ec-9db6-5dee331a7bd0.png)
+
 
 ## Technologies Used
 - Bootstrap
